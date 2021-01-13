@@ -1,0 +1,17 @@
+body {
+    margin: 30px;
+    background-color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lucie-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;   
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    color: skyblue;
+}
