@@ -1,11 +1,17 @@
 body {
     
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: violet;
 }
 .lucie-1 {
     display: block;
+<<<<<<< HEAD
     margin-left: 30px;
     margin-right: auto;
+=======
+    margin-left: auto;
+    margin-right: 30px;
+>>>>>>> 8695bf794cdc076d98f50e90b71e764fd4f2937a
     width: 200px;   
 }
 h1 {
@@ -26,4 +32,8 @@ div {
     background-attachment: fixed; 
     background-size: 100% 100%;
     background-size: cover;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8695bf794cdc076d98f50e90b71e764fd4f2937a

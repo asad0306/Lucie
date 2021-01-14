@@ -1,1 +1,2 @@
-# Lucie
+# Lucie.
+HTML & CSS Practice.
