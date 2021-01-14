@@ -1,7 +1,6 @@
 body {
     
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: violet;
 }
 .lucie-1 {
     display: block;
@@ -27,8 +26,15 @@ div {
     background-attachment: fixed; 
     background-size: 100% 100%;
     background-size: cover;
-<<<<<<< HEAD
 }
-=======
+.line-2 {
+    width: 550px;
+    height: 280px;
+    border: solid 2px black;
 }
->>>>>>> 8695bf794cdc076d98f50e90b71e764fd4f2937a
+
+.line-3 {
+    width: 550px;
+    height: 100px;
+    border: solid 2px black;
+}
