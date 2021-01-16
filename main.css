@@ -1,5 +1,4 @@
 body {
-    margin: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
 h1 {
@@ -16,12 +15,11 @@ h1 {
 .line-1, .line-2, .line-3, .line-4, .line-5 {
     margin-left: 200px;
     margin-right: 200px;
-    color: darkturquoise;
+    color: black;
     }
 
 div {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-size: cover;
-    border-radius: 50%;
     }
